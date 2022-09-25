@@ -1,0 +1,18 @@
+/*
+Theme Name: Kahlils Theme
+Theme URI: https://github.com/pdxor/kahlils-theme
+Author: Kahlil Calavas
+Author URI: https://github.com/pdxor/
+Description: Wordpress Portfolio Theme for KahlilCalavas.com
+Version: 1.0
+Requires PHP: 7.3
+License: MIT
+License URI: https://opensource.org/licenses/MIT
+Tags: wordpress, html, javascript, sass, bootstrap, ACF, css, gulp
+Text Domain: kc-theme
+*/
+
+/*
+This CSS file is needed for WordPress to recognize the theme and display its info.
+Please use the scss/styles.sass
+*/
